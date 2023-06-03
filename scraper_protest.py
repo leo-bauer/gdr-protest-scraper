@@ -11,7 +11,7 @@ from datetime import datetime
 options = webdriver.FirefoxOptions()
 options.add_argument('-headless')
 
-# test geckodriver and selenium
+# test webdriver
 drivertest = webdriver.Firefox()
 drivertest.get('https://www.goabase.net/')
 sleep(3)
