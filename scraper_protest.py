@@ -7,7 +7,7 @@ import numpy as np
 from tqdm import tqdm
 from datetime import datetime
 
-# suppress geckodriver window
+# suppress automated browser window
 options = webdriver.FirefoxOptions()
 options.add_argument('-headless')
 
