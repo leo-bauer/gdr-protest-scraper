@@ -1,1 +1,2 @@
-# gdr-protest-scraper
+# GDR Peaceful Revolution Protest Data Scraper
+
