@@ -139,4 +139,4 @@ df["demonstration"] = df["demonstration"].apply(convert_to_binary)
 df["rally"] = df["rally"].apply(convert_to_binary)
 
 # export to csv
-df.to_csv('/path/to/protest_raw.csv')
+df.to_csv('protest_raw.csv')
